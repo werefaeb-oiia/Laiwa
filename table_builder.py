@@ -1,7 +1,28 @@
 import copy
 from docx.table import Table
 from docx.oxml import OxmlElement
-from docx.shared import Inches
+from docx.shared import Inches, Pt  
+from docx.oxml.ns import qn         
+
+def set_thai_font(cell, text, font_name='TH SarabunPSK', font_size=14):
+    cell.text = "" # เคลียร์ข้อความเก่าทิ้งก่อน
+    if not str(text).strip():
+        return # ถ้าไม่มีข้อความ ให้ปล่อยว่าง
+        
+    p = cell.paragraphs[0] if len(cell.paragraphs) > 0 else cell.add_paragraph()
+    run = p.add_run(str(text))
+    
+    # กำหนดชื่อและขนาดฟอนต์
+    run.font.name = font_name
+    run.font.size = Pt(font_size)
+    
+    # โค้ดบังคับให้ภาษาไทยเป็นฟอนต์ที่กำหนด
+    r = run._element
+    rPr = r.get_or_add_rPr()
+    rFonts = rPr.get_or_add_rFonts()
+    rFonts.set(qn('w:ascii'), font_name) 
+    rFonts.set(qn('w:hAnsi'), font_name) 
+    rFonts.set(qn('w:cs'), font_name)
 
 def append_new_table(doc, previous_table, template_tbl_xml):
     p = OxmlElement('w:p')
@@ -25,22 +46,22 @@ def fill_table_data(table, row_data, images, log_callback):
             
             # --- เริ่มจับคู่ดึงข้อมูลจาก Excel ---
             if 'test script' in left_text:
-                row.cells[1].text = ts_no
+                set_thai_font(row.cells[1], ts_no)
                 
             elif 'test case name' in left_text:
-                row.cells[1].text = str(row_data.get('Test Case Name (Description)', ''))
+                set_thai_font(row.cells[1], row_data.get('Test Case Name (Description)', ''))
                 
             elif 'status' in left_text:
-                pass # ข้ามไปก่อนตามที่รีเควสครับ เดี๋ยวค่อยมาจัดการ!
+                pass # ข้ามไปก่อน
                 
             elif 'pre-condition' in left_text or 'pre condition' in left_text:
-                row.cells[1].text = str(row_data.get('Pre-Condition', ''))
+                set_thai_font(row.cells[1], row_data.get('Pre-Condition', ''))
                 
             elif 'step test' in left_text or 'test step' in left_text:
-                row.cells[1].text = str(row_data.get('Test Step Script', ''))
+                set_thai_font(row.cells[1], row_data.get('Test Step Script', ''))
                 
             elif 'expected result' in left_text:
-                row.cells[1].text = str(row_data.get('Expected Results', ''))
+                set_thai_font(row.cells[1], row_data.get('Expected Results', ''))
                 
             # --- จัดการเรื่องรูปภาพ ---
             elif 'screenshot' in left_text:

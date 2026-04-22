@@ -5,6 +5,7 @@ from datetime import datetime
 
 from report_logic import generate_report 
 from folder_generator import open_folder_popup
+from config_manager import load_config, save_config
 
 # -------------------------
 # Theme Setup & GUI Setup
@@ -37,8 +38,11 @@ def clear_all():
     excel_path.set("") # ล้างค่า Excel
     folder_path.set("")
 
-word_path, folder_path = StringVar(), StringVar()
+word_path, excel_path, folder_path = StringVar(), StringVar(), StringVar()
 status_text = StringVar(value="Ready to generate...")
+
+# สั่งโหลดคอนฟิกทันที โดยส่งตัวแปร StringVar ไปให้ไฟล์ config_manager จัดการ
+load_config(word_path, excel_path, folder_path)
 
 def select_word():
     file = filedialog.askopenfilename(filetypes=[("Word Files", "*.docx")])
@@ -63,12 +67,14 @@ def clear_all():
 # Main Process
 # -------------------------
 def run_process():
-    # เพิ่มการเช็ค excel_path เข้าไป
     if not word_path.get() or not folder_path.get() or not excel_path.get():
         status_text.set("Please select Word, Excel, and Image folder.")
         status_label.configure(text_color="#FEE75C") 
         return
-    
+
+    # เซฟ Path อัตโนมัติเมื่อกดรัน (ส่งตัวแปรไปให้ฟังก์ชันจัดการ)
+    save_config(word_path, excel_path, folder_path)
+
     log_box.configure(state="normal")
     log_box.delete("1.0", "end")
     log_box.configure(state="disabled")

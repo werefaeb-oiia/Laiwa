@@ -32,8 +32,8 @@ def generate_report(word_path, excel_path, base_folder, progress_callback, statu
             df.columns = df.columns.astype(str).str.strip()
             
             # เช็คความชัวร์ ถ้ายังหาไม่เจออีกให้ปริ้นบอกว่าเจอคอลัมน์อะไรบ้าง
-            if '*Test Script No:' not in df.columns:
-                log(f"Error: ไม่พบคอลัมน์ '*Test Script No:'")
+            if '*Test Script No.' not in df.columns:
+                log(f"Error: ไม่พบคอลัมน์ '*Test Script No.'")
                 log(f"คอลัมน์ที่มองเห็นคือ: {list(df.columns)}")
                 # ถ้าหัวตารางไปอยู่บรรทัดที่ 3 อาจจะต้องเปลี่ยนข้างบนเป็น header=2 ครับ
                 raise ValueError("ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ")
@@ -41,8 +41,8 @@ def generate_report(word_path, excel_path, base_folder, progress_callback, statu
             # เติมค่าว่าง (NaN) ให้เป็น String ว่างๆ
             df = df.fillna('')
             
-            # ตัดแถวที่ช่อง *Test Script No: เป็นค่าว่างทิ้งไป
-            df = df[df['*Test Script No:'] != '']
+            # ตัดแถวที่ช่อง *Test Script No. เป็นค่าว่างทิ้งไป
+            df = df[df['*Test Script No.'] != '']
             
             # แปลงเป็น List ของ Dictionary
             excel_data = df.to_dict('records')
@@ -75,7 +75,7 @@ def generate_report(word_path, excel_path, base_folder, progress_callback, statu
         # 2. ลูปสร้างตารางตาม Excel
         # -----------------------------
         for i, row_data in enumerate(excel_data, start=1):
-            ts_no = str(row_data.get('*Test Script No:', '')).strip()
+            ts_no = str(row_data.get('*Test Script No.', '')).strip()
             
             # ค้นหาโฟลเดอร์รูปภาพที่ชื่อตรงกับ Test Script No
             folder_full = os.path.join(base_folder, ts_no)

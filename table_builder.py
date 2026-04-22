@@ -4,7 +4,6 @@ from docx.oxml import OxmlElement
 from docx.shared import Inches
 
 def append_new_table(doc, previous_table, template_tbl_xml):
-    # (โค้ดส่วนนี้เหมือนเดิมเลยครับ)
     p = OxmlElement('w:p')
     previous_table._element.addnext(p)
     new_tbl_elem = copy.deepcopy(template_tbl_xml)
@@ -17,7 +16,7 @@ def fill_table_data(table, row_data, images, log_callback):
     รับ row_data (จาก Excel) มาเช็คและหยอดลงตารางทีละบรรทัด
     """
     is_success = False
-    ts_no = str(row_data.get('*Test Script No:', '')).strip()
+    ts_no = str(row_data.get('*Test Script No.', '')).strip()
     
     for row in table.rows:
         if len(row.cells) >= 2:

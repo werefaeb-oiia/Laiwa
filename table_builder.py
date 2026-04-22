@@ -4,15 +4,23 @@ from docx.oxml import OxmlElement
 from docx.shared import Inches, Pt  
 from docx.oxml.ns import qn         
 
-def set_thai_font(cell, text, font_name='TH SarabunPSK', font_size=14):
+def set_thai_font(cell, text, font_name='TH SarabunPSK', font_size=14, style_name=None):
     cell.text = "" # เคลียร์ข้อความเก่าทิ้งก่อน
     if not str(text).strip():
         return # ถ้าไม่มีข้อความ ให้ปล่อยว่าง
         
     p = cell.paragraphs[0] if len(cell.paragraphs) > 0 else cell.add_paragraph()
+    
+    # --- [เพิ่มใหม่] ถ้ามีการส่งชื่อ Style มา ให้จับใส่ Paragraph เลย ---
+    if style_name:
+        try:
+            p.style = style_name
+        except Exception:
+            pass # กันเหนียวไว้ เผื่อ Template Word ไม่มี Style นี้
+            
     run = p.add_run(str(text))
     
-    # กำหนดชื่อและขนาดฟอนต์
+    # กำหนดชื่อและขนาดฟอนต์ (ขนาดจะทับกับของ Heading เพื่อให้ได้ TH Sarabun สวยๆ)
     run.font.name = font_name
     run.font.size = Pt(font_size)
     
@@ -46,7 +54,8 @@ def fill_table_data(table, row_data, images, log_callback):
             
             # --- เริ่มจับคู่ดึงข้อมูลจาก Excel ---
             if 'test script' in left_text:
-                set_thai_font(row.cells[1], ts_no)
+                # สั่งให้ช่องนี้กลายเป็น Heading 3
+                set_thai_font(row.cells[1], ts_no, style_name='Heading 3')
                 
             elif 'test case name' in left_text:
                 set_thai_font(row.cells[1], row_data.get('Test Case Name (Description)', ''))

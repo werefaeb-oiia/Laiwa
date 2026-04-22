@@ -22,7 +22,7 @@ app.title("Auto Test Report Generator")
 app.geometry("950x500") 
 app.configure(fg_color=GUI_BG)
 
-app.grid_columnconfigure(0, weight=0, minsize=850) 
+app.grid_columnconfigure(0, weight=0, minsize=350) 
 app.grid_columnconfigure(1, weight=1)              
 app.grid_rowconfigure(0, weight=1)
 

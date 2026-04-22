@@ -1,0 +1,50 @@
+
+==================================================
+NEW RUN STARTED: 2026-04-22 16:14:09
+Word Template: E:/BAAC/TestAutoWord/Mobile_Banking_Maker_TestAutomated.docx
+==================================================
+[16:14:09] Starting report generation...
+[16:14:09] Reading Excel file...
+[16:14:10] Error: ไม่พบคอลัมน์ '*Test Script No:'
+[16:14:10] คอลัมน์ที่มองเห็นคือ: ['No.', 'Test Scope', 'TC No.', 'Test Case (Objective)', '*Test Script No.', 'Test Case Name (Description)', 'Unnamed: 6', 'Unnamed: 7', 'Test Data', 'Test Step Script', 'Expected Results', 'Android', 'IOS', 'Harmony OS', 'Actual Results', 'Issue Card', 'Remark', 'Priority', 'API', 'Case Type', 'API (Post Man)', 'Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Passed', 'PASS WITH CONDITION', 'N/A', 'Defer', 'Failed', 'Blocked', 'Passed.1', 'PASS WITH CONDITION.1', 'N/A.1', 'Defer.1', 'Failed.1', 'Blocked.1', 'Passed.2', 'PASS WITH CONDITION.2', 'N/A.2', 'Defer.2', 'Failed.2', 'Blocked.2']
+[16:14:10] Excel Error: ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ
+
+==================================================
+NEW RUN STARTED: 2026-04-22 16:19:54
+Word Template: E:/BAAC/TestAutoWord/Mobile_Banking_Maker_TestAutomated.docx
+==================================================
+[16:19:54] Starting report generation...
+[16:19:54] Reading Excel file...
+[16:19:55] Error: ไม่พบคอลัมน์ '*Test Script No:'
+[16:19:55] คอลัมน์ที่มองเห็นคือ: ['No.', 'Test Scope', 'TC No.', 'Test Case (Objective)', '*Test Script No.', 'Test Case Name (Description)', 'Unnamed: 6', 'Unnamed: 7', 'Test Data', 'Test Step Script', 'Expected Results', 'Android', 'IOS', 'Harmony OS', 'Actual Results', 'Issue Card', 'Remark', 'Priority', 'API', 'Case Type', 'API (Post Man)', 'Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Passed', 'PASS WITH CONDITION', 'N/A', 'Defer', 'Failed', 'Blocked', 'Passed.1', 'PASS WITH CONDITION.1', 'N/A.1', 'Defer.1', 'Failed.1', 'Blocked.1', 'Passed.2', 'PASS WITH CONDITION.2', 'N/A.2', 'Defer.2', 'Failed.2', 'Blocked.2']
+[16:19:55] Excel Error: ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ
+
+==================================================
+NEW RUN STARTED: 2026-04-22 16:19:56
+Word Template: E:/BAAC/TestAutoWord/Mobile_Banking_Maker_TestAutomated.docx
+==================================================
+[16:19:56] Starting report generation...
+[16:19:56] Reading Excel file...
+[16:19:56] Error: ไม่พบคอลัมน์ '*Test Script No:'
+[16:19:56] คอลัมน์ที่มองเห็นคือ: ['No.', 'Test Scope', 'TC No.', 'Test Case (Objective)', '*Test Script No.', 'Test Case Name (Description)', 'Unnamed: 6', 'Unnamed: 7', 'Test Data', 'Test Step Script', 'Expected Results', 'Android', 'IOS', 'Harmony OS', 'Actual Results', 'Issue Card', 'Remark', 'Priority', 'API', 'Case Type', 'API (Post Man)', 'Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Passed', 'PASS WITH CONDITION', 'N/A', 'Defer', 'Failed', 'Blocked', 'Passed.1', 'PASS WITH CONDITION.1', 'N/A.1', 'Defer.1', 'Failed.1', 'Blocked.1', 'Passed.2', 'PASS WITH CONDITION.2', 'N/A.2', 'Defer.2', 'Failed.2', 'Blocked.2']
+[16:19:56] Excel Error: ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ
+
+==================================================
+NEW RUN STARTED: 2026-04-22 16:20:17
+Word Template: E:/BAAC/TestAutoWord/Mobile_Banking_Maker_TestAutomated.docx
+==================================================
+[16:20:17] Starting report generation...
+[16:20:17] Reading Excel file...
+[16:20:17] Error: ไม่พบคอลัมน์ '*Test Script No:'
+[16:20:17] คอลัมน์ที่มองเห็นคือ: ['No.', 'Test Scope', 'TC No.', 'Test Case (Objective)', '*Test Script No.', 'Test Case Name (Description)', 'Unnamed: 6', 'Unnamed: 7', 'Test Data', 'Test Step Script', 'Expected Results', 'Android', 'IOS', 'Harmony OS', 'Actual Results', 'Issue Card', 'Remark', 'Priority', 'API', 'Case Type', 'API (Post Man)', 'Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Passed', 'PASS WITH CONDITION', 'N/A', 'Defer', 'Failed', 'Blocked', 'Passed.1', 'PASS WITH CONDITION.1', 'N/A.1', 'Defer.1', 'Failed.1', 'Blocked.1', 'Passed.2', 'PASS WITH CONDITION.2', 'N/A.2', 'Defer.2', 'Failed.2', 'Blocked.2']
+[16:20:17] Excel Error: ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ
+
+==================================================
+NEW RUN STARTED: 2026-04-22 16:21:11
+Word Template: E:/BAAC/TestAutoWord/Mobile_Banking_Maker_TestAutomated.docx
+==================================================
+[16:21:11] Starting report generation...
+[16:21:11] Reading Excel file...
+[16:21:11] Error: ไม่พบคอลัมน์ '*Test Script No:'
+[16:21:11] คอลัมน์ที่มองเห็นคือ: ['No.', 'Test Scope', 'TC No.', 'Test Case (Objective)', '*Test Script No.', 'Test Case Name (Description)', 'Unnamed: 6', 'Unnamed: 7', 'Test Data', 'Test Step Script', 'Expected Results', 'Android', 'IOS', 'Harmony OS', 'Actual Results', 'Issue Card', 'Remark', 'Priority', 'API', 'Case Type', 'API (Post Man)', 'Unnamed: 21', 'Unnamed: 22', 'Unnamed: 23', 'Unnamed: 24', 'Unnamed: 25', 'Passed', 'PASS WITH CONDITION', 'N/A', 'Defer', 'Failed', 'Blocked', 'Passed.1', 'PASS WITH CONDITION.1', 'N/A.1', 'Defer.1', 'Failed.1', 'Blocked.1', 'Passed.2', 'PASS WITH CONDITION.2', 'N/A.2', 'Defer.2', 'Failed.2', 'Blocked.2']
+[16:21:11] Excel Error: ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ

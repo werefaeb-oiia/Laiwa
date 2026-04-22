@@ -1,0 +1,276 @@
+
+==================================================
+NEW RUN STARTED: 2026-04-22 15:23:23
+Word Template: C:/Users/Bioz_Orbit/Desktop/D1A/BAAC/Automate Tools/PLAYGROUND -  F2D/For Automate word.docx
+==================================================
+[15:23:23] Starting report generation...
+[15:23:23] Reading Excel file...
+[15:23:23] Found 5 test scripts in Excel.
+[15:23:23] Using existing template table for TS_IB_AU_MAK-0001
+[15:23:23]   -> Inserted 5 images for TS_IB_AU_MAK-0001
+[15:23:23] Generated new table for TS_IB_AU_MAK-0002
+[15:23:23]   -> Warning: No images found in folder: TS_IB_AU_MAK-0002
+[15:23:23] Generated new table for TS_IB_AU_MAK-0003
+[15:23:23]   -> Inserted 2 images for TS_IB_AU_MAK-0003
+[15:23:23] Generated new table for TS_IB_AU_MAK-0004
+[15:23:23]   -> Warning: No images found in folder: TS_IB_AU_MAK-0004
+[15:23:23] Generated new table for TS_IB_AU_MAK-0005
+[15:23:23]   -> Warning: No images found in folder: TS_IB_AU_MAK-0005
+[15:23:23] Saving output file: For Automate word_20260422_152323.docx...
+[15:23:24] Process completed successfully!
+
+==================================================
+NEW RUN STARTED: 2026-04-22 15:27:22
+Word Template: C:/Users/Bioz_Orbit/Desktop/D1A/BAAC/Automate Tools/PLAYGROUND -  F2D/For Automate word.docx
+==================================================
+[15:27:22] Starting report generation...
+[15:27:22] Reading Excel file...
+[15:27:22] Error: ไม่พบคอลัมน์ '*Test Script No:'
+[15:27:22] คอลัมน์ที่มองเห็นคือ: ['No.', 'Test Scope', 'TC No.', 'Test Case (Objective)', '*Test Script No.', 'Test Case Name (Description)', 'Unnamed: 6', 'Pre-Condition', 'Test Data', 'Test Step Script', 'Expected Results', 'Chrom', 'Safari', 'Microsoft Edge', 'Issue No.', 'Remark']
+[15:27:22] Excel Error: ไม่เจอชื่อคอลัมน์ที่ต้องการ เช็คใน Log ดูครับ
+
+==================================================
+NEW RUN STARTED: 2026-04-22 15:33:11
+Word Template: C:/Users/Bioz_Orbit/Desktop/D1A/BAAC/Automate Tools/PLAYGROUND -  F2D/For Automate word.docx
+==================================================
+[15:33:11] Starting report generation...
+[15:33:11] Reading Excel file...
+[15:33:12] Found 36 test scripts in Excel.
+[15:33:12] Using existing template table for TC_IB_ST_ADM-0001
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0002
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0003
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0004
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0005
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0006
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0007
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0008
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0009
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0010
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0011
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0012
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0013
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0014
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0015
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0016
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0017
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0013
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0014
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0015
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0016
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0017
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0018
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0019
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0020
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0021
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0022
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0023
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0024
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0025
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0026
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0027
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0028
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0029
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0030
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Generated new table for TC_IB_ST_ADM-0031
+[15:33:12]   -> Warning: No images found in folder: 
+[15:33:12] Saving output file: For Automate word_20260422_153312.docx...
+[15:33:12] Process completed successfully!
+
+==================================================
+NEW RUN STARTED: 2026-04-22 15:34:31
+Word Template: C:/Users/Bioz_Orbit/Desktop/D1A/BAAC/Automate Tools/PLAYGROUND -  F2D/For Automate word.docx
+==================================================
+[15:34:31] Starting report generation...
+[15:34:31] Reading Excel file...
+[15:34:32] Found 36 test scripts in Excel.
+[15:34:32] Using existing template table for TC_IB_ST_ADM-0001
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0001
+[15:34:32] Generated new table for TC_IB_ST_ADM-0002
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0002
+[15:34:32] Generated new table for TC_IB_ST_ADM-0003
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0003
+[15:34:32] Generated new table for TC_IB_ST_ADM-0004
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0004
+[15:34:32] Generated new table for TC_IB_ST_ADM-0005
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0005
+[15:34:32] Generated new table for TC_IB_ST_ADM-0006
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0006
+[15:34:32] Generated new table for TC_IB_ST_ADM-0007
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0007
+[15:34:32] Generated new table for TC_IB_ST_ADM-0008
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0008
+[15:34:32] Generated new table for TC_IB_ST_ADM-0009
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0009
+[15:34:32] Generated new table for TC_IB_ST_ADM-0010
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0010
+[15:34:32] Generated new table for TC_IB_ST_ADM-0011
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0011
+[15:34:32] Generated new table for TC_IB_ST_ADM-0012
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0012
+[15:34:32] Generated new table for TC_IB_ST_ADM-0013
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0013
+[15:34:32] Generated new table for TC_IB_ST_ADM-0014
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0014
+[15:34:32] Generated new table for TC_IB_ST_ADM-0015
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0015
+[15:34:32] Generated new table for TC_IB_ST_ADM-0016
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0016
+[15:34:32] Generated new table for TC_IB_ST_ADM-0017
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0017
+[15:34:32] Generated new table for TC_IB_ST_ADM-0013
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0013
+[15:34:32] Generated new table for TC_IB_ST_ADM-0014
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0014
+[15:34:32] Generated new table for TC_IB_ST_ADM-0015
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0015
+[15:34:32] Generated new table for TC_IB_ST_ADM-0016
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0016
+[15:34:32] Generated new table for TC_IB_ST_ADM-0017
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0017
+[15:34:32] Generated new table for TC_IB_ST_ADM-0018
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0018
+[15:34:32] Generated new table for TC_IB_ST_ADM-0019
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0019
+[15:34:32] Generated new table for TC_IB_ST_ADM-0020
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0020
+[15:34:32] Generated new table for TC_IB_ST_ADM-0021
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0021
+[15:34:32] Generated new table for TC_IB_ST_ADM-0022
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0022
+[15:34:32] Generated new table for TC_IB_ST_ADM-0023
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0023
+[15:34:32] Generated new table for TC_IB_ST_ADM-0024
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0024
+[15:34:32] Generated new table for TC_IB_ST_ADM-0025
+[15:34:32]   -> Warning: No images found in folder: TC_IB_ST_ADM-0025
+[15:34:32] Generated new table for TC_IB_ST_ADM-0026
+[15:34:33]   -> Warning: No images found in folder: TC_IB_ST_ADM-0026
+[15:34:33] Generated new table for TC_IB_ST_ADM-0027
+[15:34:33]   -> Warning: No images found in folder: TC_IB_ST_ADM-0027
+[15:34:33] Generated new table for TC_IB_ST_ADM-0028
+[15:34:33]   -> Warning: No images found in folder: TC_IB_ST_ADM-0028
+[15:34:33] Generated new table for TC_IB_ST_ADM-0029
+[15:34:33]   -> Warning: No images found in folder: TC_IB_ST_ADM-0029
+[15:34:33] Generated new table for TC_IB_ST_ADM-0030
+[15:34:33]   -> Warning: No images found in folder: TC_IB_ST_ADM-0030
+[15:34:33] Generated new table for TC_IB_ST_ADM-0031
+[15:34:33]   -> Warning: No images found in folder: TC_IB_ST_ADM-0031
+[15:34:33] Saving output file: For Automate word_20260422_153433.docx...
+[15:34:33] Process completed successfully!
+
+==================================================
+NEW RUN STARTED: 2026-04-22 15:35:13
+Word Template: C:/Users/Bioz_Orbit/Desktop/D1A/BAAC/Automate Tools/PLAYGROUND -  F2D/For Automate word.docx
+==================================================
+[15:35:13] Starting report generation...
+[15:35:13] Reading Excel file...
+[15:35:13] Found 36 test scripts in Excel.
+[15:35:13] Using existing template table for TC_IB_ST_ADM-0001
+[15:35:13]   -> Inserted 1 images for TC_IB_ST_ADM-0001
+[15:35:13] Generated new table for TC_IB_ST_ADM-0002
+[15:35:13]   -> Warning: No images found in folder: TC_IB_ST_ADM-0002
+[15:35:13] Generated new table for TC_IB_ST_ADM-0003
+[15:35:13]   -> Warning: No images found in folder: TC_IB_ST_ADM-0003
+[15:35:13] Generated new table for TC_IB_ST_ADM-0004
+[15:35:13]   -> Warning: No images found in folder: TC_IB_ST_ADM-0004
+[15:35:13] Generated new table for TC_IB_ST_ADM-0005
+[15:35:13]   -> Warning: No images found in folder: TC_IB_ST_ADM-0005
+[15:35:14] Generated new table for TC_IB_ST_ADM-0006
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0006
+[15:35:14] Generated new table for TC_IB_ST_ADM-0007
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0007
+[15:35:14] Generated new table for TC_IB_ST_ADM-0008
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0008
+[15:35:14] Generated new table for TC_IB_ST_ADM-0009
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0009
+[15:35:14] Generated new table for TC_IB_ST_ADM-0010
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0010
+[15:35:14] Generated new table for TC_IB_ST_ADM-0011
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0011
+[15:35:14] Generated new table for TC_IB_ST_ADM-0012
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0012
+[15:35:14] Generated new table for TC_IB_ST_ADM-0013
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0013
+[15:35:14] Generated new table for TC_IB_ST_ADM-0014
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0014
+[15:35:14] Generated new table for TC_IB_ST_ADM-0015
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0015
+[15:35:14] Generated new table for TC_IB_ST_ADM-0016
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0016
+[15:35:14] Generated new table for TC_IB_ST_ADM-0017
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0017
+[15:35:14] Generated new table for TC_IB_ST_ADM-0013
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0013
+[15:35:14] Generated new table for TC_IB_ST_ADM-0014
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0014
+[15:35:14] Generated new table for TC_IB_ST_ADM-0015
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0015
+[15:35:14] Generated new table for TC_IB_ST_ADM-0016
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0016
+[15:35:14] Generated new table for TC_IB_ST_ADM-0017
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0017
+[15:35:14] Generated new table for TC_IB_ST_ADM-0018
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0018
+[15:35:14] Generated new table for TC_IB_ST_ADM-0019
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0019
+[15:35:14] Generated new table for TC_IB_ST_ADM-0020
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0020
+[15:35:14] Generated new table for TC_IB_ST_ADM-0021
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0021
+[15:35:14] Generated new table for TC_IB_ST_ADM-0022
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0022
+[15:35:14] Generated new table for TC_IB_ST_ADM-0023
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0023
+[15:35:14] Generated new table for TC_IB_ST_ADM-0024
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0024
+[15:35:14] Generated new table for TC_IB_ST_ADM-0025
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0025
+[15:35:14] Generated new table for TC_IB_ST_ADM-0026
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0026
+[15:35:14] Generated new table for TC_IB_ST_ADM-0027
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0027
+[15:35:14] Generated new table for TC_IB_ST_ADM-0028
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0028
+[15:35:14] Generated new table for TC_IB_ST_ADM-0029
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0029
+[15:35:14] Generated new table for TC_IB_ST_ADM-0030
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0030
+[15:35:14] Generated new table for TC_IB_ST_ADM-0031
+[15:35:14]   -> Warning: No images found in folder: TC_IB_ST_ADM-0031
+[15:35:14] Saving output file: For Automate word_20260422_153514.docx...
+[15:35:14] Process completed successfully!

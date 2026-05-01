@@ -1,0 +1,204 @@
+
+==================================================
+NEW RUN STARTED: 2026-04-29 13:09:21
+Word Template: C:/Users/Bioz_Orbit/Desktop/D1A/BAAC/Automate Tools/PLAYGROUND -  F2D/For Automate word.docx
+==================================================
+[13:09:21] Starting report generation...
+[13:09:21] Reading Excel file...
+[13:09:21] Found 97 test scripts in Excel.
+[13:09:21] Using existing template table for TC_BO_ST_AM_01-0001
+[13:09:21]   -> Inserted 5 images for TC_BO_ST_AM_01-0001
+[13:09:21] Generated new table for TC_BO_ST_AM_01-0002
+[13:09:21]   -> Inserted 5 images for TC_BO_ST_AM_01-0002
+[13:09:21] Generated new table for TC_BO_ST_AM_01-0003
+[13:09:21]   -> Inserted 4 images for TC_BO_ST_AM_01-0003
+[13:09:21] Generated new table for TC_BO_ST_AM_02-0001
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_02-0001
+[13:09:21] Generated new table for TC_BO_ST_AM_02-0002
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_02-0002
+[13:09:21] Generated new table for TC_BO_ST_AM_02-0003
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_02-0003
+[13:09:21] Generated new table for TC_BO_ST_AM_02-0004
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_02-0004
+[13:09:21] Generated new table for TC_BO_ST_AM_03-0001
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_03-0001
+[13:09:21] Generated new table for TC_BO_ST_AM_03-0002
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_03-0002
+[13:09:21] Generated new table for TC_BO_ST_AM_03-0003
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_03-0003
+[13:09:21] Generated new table for TC_BO_ST_AM_03-0004
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_03-0004
+[13:09:21] Generated new table for TC_BO_ST_AM_03-0005
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_03-0005
+[13:09:21] Generated new table for TC_BO_ST_AM_03-0006
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_03-0006
+[13:09:21] Generated new table for TC_BO_ST_AM_04-0001
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_04-0001
+[13:09:21] Generated new table for TC_BO_ST_AM_05-0001
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_05-0001
+[13:09:21] Generated new table for TC_BO_ST_AM_05-0002
+[13:09:21]   -> Warning: No images found in folder: TC_BO_ST_AM_05-0002
+[13:09:22] Generated new table for TC_BO_ST_AM_05-0003
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_05-0003
+[13:09:22] Generated new table for TC_BO_ST_AM_05-0004
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_05-0004
+[13:09:22] Generated new table for TC_BO_ST_AM_05-0005
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_05-0005
+[13:09:22] Generated new table for TC_BO_ST_AM_06-0001
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_06-0001
+[13:09:22] Generated new table for TC_BO_ST_AM_06-0002
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_06-0002
+[13:09:22] Generated new table for TC_BO_ST_AM_06-0003
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_06-0003
+[13:09:22] Generated new table for TC_BO_ST_AM_06-0004
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_06-0004
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0001
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0001
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0002
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0002
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0003
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0003
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0004
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0004
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0005
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0005
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0006
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0006
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0007
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0007
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0008
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0008
+[13:09:22] Generated new table for TC_BO_ST_AM_07-0009
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_07-0009
+[13:09:22] Generated new table for TC_BO_ST_AM_08-0001
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_08-0001
+[13:09:22] Generated new table for TC_BO_ST_AM_08-0002
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_08-0002
+[13:09:22] Generated new table for TC_BO_ST_AM_08-0003
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_08-0003
+[13:09:22] Generated new table for TC_BO_ST_AM_08-0004
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_08-0004
+[13:09:22] Generated new table for TC_BO_ST_AM_09-0001
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_09-0001
+[13:09:22] Generated new table for TC_BO_ST_AM_09-0002
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_09-0002
+[13:09:22] Generated new table for TC_BO_ST_AM_09-0003
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_09-0003
+[13:09:22] Generated new table for TC_BO_ST_AM_09-0004
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_09-0004
+[13:09:22] Generated new table for TC_BO_ST_AM_10-0001
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_10-0001
+[13:09:22] Generated new table for TC_BO_ST_AM_10-0002
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_10-0002
+[13:09:22] Generated new table for TC_BO_ST_AM_10-0003
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_10-0003
+[13:09:22] Generated new table for TC_BO_ST_AM_10-0004
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_10-0004
+[13:09:22] Generated new table for TC_BO_ST_AM_11-0001
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_11-0001
+[13:09:22] Generated new table for TC_BO_ST_AM_11-0002
+[13:09:22]   -> Warning: No images found in folder: TC_BO_ST_AM_11-0002
+[13:09:23] Generated new table for TC_BO_ST_AM_11-0003
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_11-0003
+[13:09:23] Generated new table for TC_BO_ST_AM_11-0004
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_11-0004
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0001
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0001
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0002
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0002
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0003
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0003
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0004
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0004
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0005
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0005
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0006
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0006
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0007
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0007
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0008
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0008
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0009
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0009
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0010
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0010
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0011
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0011
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0012
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0012
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0013
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0013
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0014
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0014
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0015
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0015
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0016
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0016
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0017
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0017
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0018
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0018
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0019
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0019
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0020
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0020
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0021
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0021
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0022
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0022
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0023
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0023
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0024
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0024
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0025
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0025
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0026
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0026
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0027
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0027
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0028
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0028
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0029
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0029
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0030
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0030
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0031
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0031
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0032
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0032
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0033
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0033
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0034
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0034
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0035
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0035
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0036
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0036
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0037
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0037
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0038
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0038
+[13:09:23] Generated new table for TC_BO_ST_AM_12-0039
+[13:09:23]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0039
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0040
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0040
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0041
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0041
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0042
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0042
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0043
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0043
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0044
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0044
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0045
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0045
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0046
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0046
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0047
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0047
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0048
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0048
+[13:09:24] Generated new table for TC_BO_ST_AM_12-0049
+[13:09:24]   -> Warning: No images found in folder: TC_BO_ST_AM_12-0049
+[13:09:24] Saving output file: For Automate word_20260429_130924.docx...
+[13:09:24] Process completed successfully!

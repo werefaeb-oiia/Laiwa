@@ -5,6 +5,9 @@ from datetime import datetime
 from docx import Document
 import pandas as pd # นำเข้าไลบรารีอ่าน Excel
 
+from docx.text.paragraph import Paragraph
+from docx.table import Table
+
 from table_builder import append_new_table, fill_table_data
 
 def generate_report(word_path, excel_path, base_folder, progress_callback, status_callback, log_callback, finish_callback):
@@ -60,12 +63,31 @@ def generate_report(word_path, excel_path, base_folder, progress_callback, statu
             finish_callback()
             return
 
-        if len(doc.tables) == 0:
-            status_callback("Error: No table found in Word template.", "error")
+        # -----------------------------
+        # 2. ค้นหาตารางเทมเพลตที่อยู่หลังคำว่า "ผลการทดสอบ"
+        # -----------------------------
+        template_table = None
+        found_heading = False
+        
+        # กวาดสายตาดูทุกส่วนในเอกสาร (ตั้งแต่บนลงล่าง)
+        for element in doc._body._element:
+            if element.tag.endswith('p'):
+                p = Paragraph(element, doc)
+                # เช็คว่ามีคำว่า "ผลการทดสอบ" หรือไม่
+                if 'ผลการทดสอบ' in p.text.strip():
+                    found_heading = True
+            
+            # ถ้าเจอ "ตาราง" หลังจากที่ผ่านคำว่า "ผลการทดสอบ" มาแล้ว ให้จำไว้เป็นเทมเพลตเลย!
+            elif element.tag.endswith('tbl') and found_heading:
+                template_table = Table(element, doc)
+                break # เจอแล้วหยุดหา
+                
+        if template_table is None:
+            status_callback("Error: ไม่พบตารางใต้ 'ผลการทดสอบ'", "error")
+            log("Error: Could not find template table under 'ผลการทดสอบ' heading.")
             finish_callback()
             return
-
-        template_table = doc.tables[0]
+            
         template_tbl_xml = copy.deepcopy(template_table._tbl)
         previous_table = template_table
         
